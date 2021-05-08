@@ -2,6 +2,10 @@ Strength through struggle
 
 You'll Never walk alone YNWA - Bill Shankley
 
+<<<<<<< HEAD
 
 the sky is blue -- Lucky Luke
 
+=======
+the sky is pink -- Lucky Luke
+>>>>>>> personal_quotes
